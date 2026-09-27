@@ -8,7 +8,7 @@ The project demonstrates practical experience in **full-stack web development**,
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://trend-opal-delta.vercel.app/
+🔗 **Live Website:** https://trend-pwrkumxy1-ankit-mangarajs-projects.vercel.app/
 
 🔗 **GitHub Repository:** https://github.com/ankitmangaraj/Trend
 
