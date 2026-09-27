@@ -376,7 +376,7 @@ Trend is deployed using **Vercel**.
 
 ### Production Website
 
-🔗 **https://trend-opal-delta.vercel.app/**
+🔗 **https://trend-pwrkumxy1-ankit-mangarajs-projects.vercel.app/**
 
 The frontend communicates with the backend through environment-based API configuration.
 
