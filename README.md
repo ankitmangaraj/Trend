@@ -6,6 +6,12 @@ The project demonstrates practical experience in **full-stack web development**,
 
 ---
 
+## 🔐 Admin Dashboard
+
+The application includes a protected admin dashboard for product, inventory, order, and sales management.
+
+Admin access is restricted to authorized users.
+
 ## 🚀 Live Demo
 
 🔗 **Live Website:** https://trend-pwrkumxy1-ankit-mangarajs-projects.vercel.app/
